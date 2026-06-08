@@ -1,0 +1,8 @@
+﻿# helper scripts and reports (not part of the website)
+*.ps1
+PS.BAT
+wix-references-report.txt
+
+# backup folders
+_backup_before_newtab/
+_backup_before_localize/
